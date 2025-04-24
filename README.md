@@ -16,3 +16,7 @@ Este repositorio foi criado para adicionar todas as automações e softwares que
 
 4) DOMÍNIO NFSE
    Esta automação realiza a extração de informações via ODBC no banco de dados da Dominio para gerar um relatorio para o confronto do conciliador.
+
+5) AUTOMAÇÃO FGTS
+   Esta automação foi criada com pyautogui inicialmente não tem muitas validaçõe porem esta funcionando e contem uma biblioteca criada manualmente para lidar com
+   qualquer tipo de situação que poça surrgir. É rapida, le e atualiza situações em uma planilha.
